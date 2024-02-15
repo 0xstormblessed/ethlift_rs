@@ -1,3 +1,5 @@
+THIS PROJECT IS WIP
+
 ## ETHLIFT
 
 **ETHLIFT is a set of CLI tools intended to be use by smart contract developers for general tasks not covered at the moment by other CLI tools**
